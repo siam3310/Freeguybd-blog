@@ -4,7 +4,7 @@ published: 2024-09-04
 image: "https://raw.githubusercontent.com/siam3310/si-movies/main/CB.png"
 tags: [Siam, Blogging, Test]
 category: Siam
-draft: true
+draft: false
 ---
 
 # This Article is a Draft
