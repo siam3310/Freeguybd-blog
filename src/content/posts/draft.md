@@ -1,9 +1,9 @@
 ---
-title: Draft Example
+title: Draft Example - siam
 published: 2022-07-01
 tags: [Markdown, Blogging, Demo]
 category: Examples
-draft: true
+draft: false
 ---
 
 # This Article is a Draft
