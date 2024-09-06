@@ -24,12 +24,12 @@ export const siteConfig: SiteConfig = {
       url: ''                // (Optional) URL link to the original artwork or artist's page
     }
   },
-  favicon: [    // Leave this array empty to use the default favicon
-    // {
-    //   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
-    //   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-    //   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-    // }
+  favicon: [    
+    {
+     src: 'https://i.ibb.co/27CdzT1/82abb981-74e0-43a1-813f-6fa32f8fe0a5-removebg-preview.png',    // Path of the favicon, relative to the /public directory
+    theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
+    sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+   }
   ]
 }
 
@@ -38,11 +38,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Home,
     LinkPreset.Archive,
     LinkPreset.About,
-    {
-      name: 'GitHub',
-      url: '',     // Internal links should not include the base path, as it is automatically added
-      external: true,                               // Show an external link icon and will open in a new tab
-    },
+  
   ],
 }
 
