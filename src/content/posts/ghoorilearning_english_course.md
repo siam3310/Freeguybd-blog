@@ -1,7 +1,7 @@
 ---
 title: Premium English Courses from GhooriLearning.com Free Download !!!
 published: 2024-09-08
-image: "https://raw.githubusercontent.com/siam3310/si-movies/main/CB.png"
+image: "https://i.ibb.co.com/2NpB2TK/ghoorilearning-Freeguybd-posters.jpg"
 tags: [Premium, GhuriLearning, English]
 category: English
 draft: false
