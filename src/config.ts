@@ -16,12 +16,12 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'https://i.ibb.co.com/z5KtZxJ/welcome-to-freeguybd.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
       enable: true,         // Display the credit text of the banner image
       text: 'Welcome to FREEGUYBD',              // Credit text to be displayed
-      url: ''                // (Optional) URL link to the original artwork or artist's page
+      url: '#'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   favicon: [    // Leave this array empty to use the default favicon
